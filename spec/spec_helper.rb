@@ -1,3 +1,7 @@
+# Test coverage
+require 'simplecov'
+SimpleCov.start
+
 require 'rack/test'
 require 'rspec'
 require 'capybara/rspec'
