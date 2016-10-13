@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/foo' do
-  "This is untested"
+  "This is tested"
 end
