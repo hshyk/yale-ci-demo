@@ -1,5 +1,5 @@
-[![build status](https://gitlab.com/orenyk/gitlab_demo4/badges/master/build.svg)](https://gitlab.com/orenyk/gitlab_demo4/commits/master)
-[![coverage report](https://gitlab.com/orenyk/gitlab_demo4/badges/master/coverage.svg)](https://gitlab.com/orenyk/gitlab_demo4/commits/master)
+[![build status](https://gitlab.com/orenyk/gitlab_demo/badges/master/build.svg)](https://gitlab.com/orenyk/gitlab_demo/commits/master)
+[![coverage report](https://gitlab.com/orenyk/gitlab_demo/badges/master/coverage.svg)](https://gitlab.com/orenyk/gitlab_demo/commits/master)
 
 # GitLab Demo
 
