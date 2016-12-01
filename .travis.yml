@@ -18,5 +18,5 @@ deploy:
     api_key:
       secure: UUIim6O34TRJ4o7XVvKmEYNt6WcPMiYEjltjEMJzNyktvBZ2qW5zfKq2PqKfJAuWofi/C8DC++eXrP7aG86f4A7/x2tgqPCOooeUI1lDKqqNjUW+usocTIB/kssYcvWFI44jFwOqKq7iiK8mRiQOgE+RmOpw/0RpchNm9xOP55fqrrYRQYt/yGUwdLOUJUmnRXjIdbvlmFDiajhaNwZRd6B44VU0PW00ZdBM56mDSCO0ifmzW4huhX9YEPOttWr2/xJsgUCFUR1xihNh2LPkWp+cEf01/SfnKXDIoUxhBQVxECPGBu6urXt5yIbvphXWc7xMaiE6rbuwR1iyAj1uuSfPk+v9mrfI/ERRK0RSptvND96Ut+UbfavvEcRAmIZHxPj94ZiEx08O3R5LoW6CG7nSja8en/y9G+0RR20SF4vlFsu2Hj+GEf2yEXNat2eDPKOzCxPzi1oyy8BrYnxqk/GGnezzTEd+99+ip9VyIQOFWzpE14P1zG+lcumo+4hasdFk/V9w1Z+8WD09j7724rsvHkJ0LDCdjYgOXmDBcR2gUmJeDkVE+g+r4Ax/YAFtJEOZgLX3MdXpjSpchLTHQH2skeHvwTLPG0/7Fpj5JSE3CHZMy8udJQdGTXoyYGbfriqRIikaVbsaowotX8NhvKyhLUwuSNTBgtdtDZrClQM=
     app: yale-travis-ci-demo
-      on:
-        tags: true
+    on:
+      tags: true
