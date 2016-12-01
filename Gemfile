@@ -6,3 +6,4 @@ gem "sinatra"
 gem "rspec", group: :test
 gem "capybara", group: :test
 gem "simplecov", require: false, group: :test
+gem "rake"
