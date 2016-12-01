@@ -7,7 +7,6 @@ before_install:
   - sudo apt-get -qq update
   - gem update bundler
   - bundle install
-  - bundle exec rspec
 
 deploy:
   - provider: heroku
