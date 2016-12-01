@@ -1,3 +1,1 @@
-RSpec::Core::RakeTask.new(:spec) do |t|
-  t.pattern = 'spec/features/*/_spec.rb'
-end
+require 'spec/spec_helper'
