@@ -6,7 +6,6 @@ rvm:
 before_install:
   - sudo apt-get -qq update
   - gem update bundler
-  - bundle install
 
 deploy:
   - provider: heroku

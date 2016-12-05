@@ -1,4 +1,4 @@
-[![build status](https://gitlab.com/orenyk/gitlab_demo/badges/master/build.svg)](https://gitlab.com/orenyk/gitlab_demo/commits/master)
+[![build status](https://api.travis-ci.org/hshyk/yale-ci-demo.svg)](https://github.com/hshyk/yale-ci-demo/commits/master)
 [![coverage report](https://gitlab.com/orenyk/gitlab_demo/badges/master/coverage.svg)](https://gitlab.com/orenyk/gitlab_demo/commits/master)
 
 # GitLab Demo
