@@ -9,5 +9,5 @@ get '/foo' do
 end
 
 get "/bar" do
-  "Bar is here"
+  "Bar went away"
 end
