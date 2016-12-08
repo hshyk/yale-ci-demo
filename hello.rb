@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  "Hello Yale!"
+  "Hello Harvard!"
 end
 
 get '/foo' do
